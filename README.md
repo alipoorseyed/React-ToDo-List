@@ -1,11 +1,31 @@
-# React + TypeScript + Vite
+# React-ToDO-List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+this project is implemention of ToDO-List with React for Qeura-Bootcamp
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Feature ✨
+
+- Add Your task
+- Delet Your Task
+- Choose Your Category
+- Filter Your Task Based on Category
+- Check off your completed tasks.
+
+
+## Technologies Used 💻
+
+- React Libary 
+- TypeScript
+- TailwindCss
+
+
+## Screenshots
+
+<img src="https://github.com/user-attachments/assets/24d062be-69b5-4ce4-8e37-70e94a3d2648" alt="TodoList" width="500"/>
+
+<img src="https://github.com/user-attachments/assets/c07afa01-c0cb-4773-a9df-ec42ccb0f475" alt="TodoList" width="500"/>
+
+
 
 ## Expanding the ESLint configuration
 
