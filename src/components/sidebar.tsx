@@ -11,7 +11,7 @@ export default function SideBar({ items, categoryshow }) {
           />
           <label
             onClick={categoryshow}
-            className="text-[#525252] font-[400] text-[22px] peer-checked:text-[orange] cursor-pointer"
+            className="text-[#525252] font-[400] text-[22px] peer-checked:text-orange-400 cursor-pointer"
             htmlFor="ALL"
           >
             ALL
@@ -29,7 +29,7 @@ export default function SideBar({ items, categoryshow }) {
             <label
               htmlFor={element}
               onClick={categoryshow}
-              className="text-[#525252] font-[400] text-[22px] peer-checked:text-[orange] cursor-pointer"
+              className="text-[#525252] font-[400] text-[22px] peer-checked:text-orange-400 cursor-pointer"
             >
               {element}
             </label>
